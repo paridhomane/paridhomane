@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Prashansa Dhomane</h1>
-<h3 align="center">A passionate Data Scientist and Software Developer based in Mumbai, India. With a knack for uncovering insights through data and a talent for building robust, scalable software solutions, I thrive at the intersection of data analysis and software engineering.</h3>
+<h3 align="center">A passionate Data Scientist and Software Developer. With a knack for uncovering insights through data and a talent for building robust, scalable software solutions, I thrive at the intersection of data analysis and software engineering.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
